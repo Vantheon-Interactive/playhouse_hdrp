@@ -1,7 +1,7 @@
 # playhouse_hdrp
 This is the psychological horror game lead by PlaugedPsycho
 
-Team:
+##Team:
 
 Programming
  - Aquaphoenix15
