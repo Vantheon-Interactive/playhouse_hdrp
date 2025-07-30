@@ -2,6 +2,7 @@
 This is the psychological horror game lead by PlaugedPsycho
 
 Team:
+
 Programming
  - Aquaphoenix15
  - DNM
